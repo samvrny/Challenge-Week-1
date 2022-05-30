@@ -18,4 +18,6 @@ Here is a look at the finished webpage!
 ## Contribution
 Made by Samuel Varney 
 
+### © 2019 Horiseon Social Solution Services, Inc.
+
 
